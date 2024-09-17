@@ -75,7 +75,7 @@
                 <configuration>
                     <!-- Configuração para WAR -->
                     <outputDirectory>${project.build.directory}/lib</outputDirectory>
-                    <mainClass>br.com.fiap.challenge.peferences.PreferencesApplication</mainClass>
+                    <mainClass>br.com.fiap.challenge.preferences.PreferencesApplication</mainClass>
                 </configuration>
             </plugin>
             <!-- Plugin para gerar o WAR -->
